@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "mew/ПРОГРАММИРОВАНИЕ/Архитектура/мяу.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "мяу"
             }
           }
         ]
@@ -210,6 +214,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "mew/ПРОГРАММИРОВАНИЕ/Архитектура/Без названия 1.md",
+    "mew/Сервер майна/Моды/Без названия.canvas",
+    "mew/Мяу/Images/Pasted image 20261020185154.png",
+    "mew/Мяу/Images/Pasted image 20261013174146.png",
+    "mew/Мяу/Images/deepseek_mermaid_20261020_765304.png",
     "muhehehe",
     "app/Новая папка",
     "app/README.md",
@@ -248,10 +257,6 @@
     "meow/Pasted image 20261011141639.png",
     "meow/Images",
     "meow",
-    "mew/Сервер майна/Моды/Без названия.canvas",
-    "mew/Сервер майна/image/Pasted image 20260919202640.png",
-    "mew/Сервер майна/image/Pasted image 20260919202103.png",
-    "mew/Сервер майна/image/Pasted image 20260919200248.png",
     "mew/ИГРА/Сюжет/🖼️Сюжет холст.canvas",
     "mew/ИГРА/Сюжет/Котик/🖼️Котость холст.canvas",
     "mew/ИГРА/Сюжет/Котик/Котость Интерфейс.canvas",
@@ -262,7 +267,6 @@
     "Мя/ПРОГРАММИРОВАНИЕ/C sharp изучить.canvas",
     "mew/ИГРА/Сюжет/Котик",
     "mew/ПРОГРАММИРОВАНИЕ/Плагины/Плагины.canvas",
-    "mew/ПРОГРАММИРОВАНИЕ/Плагины/REPR (ЛУЧШЕ MINIMAL API)",
     "mew/ПРОГРАММИРОВАНИЕ/Шпаргалка.canvas",
     "mew/ПРОГРАММИРОВАНИЕ/Пет проекты.canvas",
     "mew/ПРОГРАММИРОВАНИЕ/Книги.canvas"
