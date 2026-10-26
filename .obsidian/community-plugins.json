@@ -16,5 +16,6 @@
   "smart-connections",
   "style-text",
   "canvas-node-linker",
-  "github-sync"
+  "github-sync",
+  "obsidian-git"
 ]
