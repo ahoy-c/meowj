@@ -11,12 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "mew/ИГРА/Изображения/300x300.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "300x300"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -220,8 +218,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e442397ba021677a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "mew/ИГРА/Изображения/300x300.jpg",
     "mew/ПРОГРАММИРОВАНИЕ/Архитектура/мяу.md",
     "mew/ПРОГРАММИРОВАНИЕ/Архитектура/Без названия 1.md",
     "mew/Сервер майна/Моды/Без названия.canvas",
@@ -260,7 +259,6 @@
     "meow/Загрузка статей.md",
     "meow/Без названия.md",
     "meow/Без названия 1.md",
-    "meow/Баг Не сохраняются occurancies.md",
     "meow/Pasted image 20261011142209.png",
     "meow/Pasted image 20261011141639.png",
     "meow/Images",
