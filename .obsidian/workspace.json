@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94fbed2f24248070",
+    "type": "split",
+    "children": [
+      {
+        "id": "b052f1c86a4e5cd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e442397ba021677a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "70c29cf77980868e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "44f97212c3541929",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          },
+          {
+            "id": "5c51cdf84e48d12e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.5
+  },
+  "right": {
+    "id": "9bcd56d2cdedc326",
+    "type": "split",
+    "children": [
+      {
+        "id": "002b1a26aea75587",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1dd6e6fbc8feb03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "b1e244bb46027ed9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "94c418071b852808",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "abcc4f83214e1936",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "732aea0fa20a84a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "4f33a8e3da197d3a",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "0dbe263d932a36da",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "muhehehe",
+    "app/Новая папка",
+    "app/README.md",
+    "app",
+    "meow/Новая папка/Загрузка статей.md",
+    "meow/Новая папка/Геймификация+AI friend(s).md",
+    "meow/Новая папка/Баг Не сохраняются occurancies.md",
+    "meow/Новая папка/SEO Оптимизация.md",
+    "meow/Images/Без названия 3.md",
+    "meow/Images/Pasted image 20261011190445.png",
+    "meow/Images/Pasted image 20261011190437.png",
+    "meow/Images/Pasted image 20261011190113.png",
+    "meow/Images/Pasted image 20261011142209.png",
+    "meow/Images/Pasted image 20261011141639.png",
+    "meow/Геймификация+AI friend(s).md",
+    "meow/Чат(RAG-сложо).md",
+    "meow/Таски.md",
+    "meow/Путь изучения(за ручку).md",
+    "meow/Пакеты перевода.md",
+    "meow/Пакеты адаптации(ru en).md",
+    "meow/Новая папка",
+    "meow/Озвучивание текстов.md",
+    "meow/Пагинация.md",
+    "meow/Озвучивание слов.md",
+    "meow/Методика_RU_1.md",
+    "meow/Массивный оверхол карточек.md",
+    "meow/Лемматизация и связь слов по леммам.md",
+    "meow/Категоризация и фильтры статей.md",
+    "meow/Иные формы контента.md",
+    "meow/Загрузка статей.md",
+    "meow/Без названия.md",
+    "meow/Без названия 1.md",
+    "meow/Баг Не сохраняются occurancies.md",
+    "meow/SEO Оптимизация.md",
+    "meow/Pasted image 20261011142209.png",
+    "meow/Pasted image 20261011141639.png",
+    "meow/Images",
+    "meow",
+    "mew/Сервер майна/Моды/Без названия.canvas",
+    "mew/Сервер майна/image/Pasted image 20260919202640.png",
+    "mew/Сервер майна/image/Pasted image 20260919202103.png",
+    "mew/Сервер майна/image/Pasted image 20260919200248.png",
+    "mew/ИГРА/Сюжет/🖼️Сюжет холст.canvas",
+    "mew/ИГРА/Сюжет/Котик/🖼️Котость холст.canvas",
+    "mew/ИГРА/Сюжет/Котик/Котость Интерфейс.canvas",
+    "mew/ИГРА/Механики/Механики холст.canvas",
+    "mew/ИГРА/Изображения/LeoN1 - sun will rise 2.mp3",
+    "mew/LeoN1 - sun will rise.mp3",
+    "h origin +492d347main",
+    "Мя/ПРОГРАММИРОВАНИЕ/C sharp изучить.canvas",
+    "mew/ИГРА/Сюжет/Котик",
+    "mew/ПРОГРАММИРОВАНИЕ/Плагины/Плагины.canvas",
+    "mew/ПРОГРАММИРОВАНИЕ/Плагины/REPR (ЛУЧШЕ MINIMAL API)",
+    "mew/ПРОГРАММИРОВАНИЕ/Шпаргалка.canvas",
+    "mew/ПРОГРАММИРОВАНИЕ/Пет проекты.canvas",
+    "mew/ПРОГРАММИРОВАНИЕ/Книги.canvas"
+  ]
+}

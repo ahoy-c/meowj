@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/ahoy-c/app.git",
+  "gitLocation": "",
+  "syncinterval": 1,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": false
+}

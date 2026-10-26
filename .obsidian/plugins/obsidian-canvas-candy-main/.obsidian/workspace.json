@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "4ea5d96a9363037e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7970e48b733716f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c63687b2b4713beb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "SETUP YOUR VAULT.canvas",
+                "viewState": {
+                  "x": 40,
+                  "y": -170,
+                  "zoom": -0.11617501430942301
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "SETUP YOUR VAULT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f630a12dd257849",
+    "type": "split",
+    "children": [
+      {
+        "id": "824c80aea4a51542",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54a0987095cd8b0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "9ce0342ccca253b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2119bb8732a5aab7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc2d976aed9afa8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4ca71f122d150f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 START HERE.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 00 START HERE"
+            }
+          },
+          {
+            "id": "a2fa4f494424669c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "c63687b2b4713beb",
+  "lastOpenFiles": [
+    "00 START HERE.canvas",
+    "04 List of Decorations.md",
+    "03 Samples Index.md",
+    "02 Stencil Index.md",
+    "01 Features Index.md",
+    "Tutorial/Lesson 03 - Try decorating a card for yourself.canvas",
+    "Tutorial/Lesson 02 - Decorating a card.canvas",
+    "Tutorial/Lesson 01 - Getting Started.canvas",
+    "Stencils/media/diamonds/diamond-brown-soft-cc-image.svg",
+    "SETUP YOUR VAULT.canvas",
+    "README.md",
+    "06 Community Content.md",
+    "05 Video Tutorials.canvas",
+    "Features/Borders.canvas",
+    "Samples/Database Structure Diagram.canvas"
+  ]
+}
